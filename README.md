@@ -1,6 +1,7 @@
 Hi, I'm Lorena 👋
 
-🔍 Intelligence Analyst | OSINT · Geopolitics 🛡️ Moving into Cyber Threat Intelligence & SOC 📍 Madrid, Spain
+🔍 Intelligence Analyst | OSINT · Geopolitics 🛡️ Moving into Cyber Threat Intelligence & SOC 
+📍 Spain
 
 About me
 
