@@ -1,26 +1,31 @@
-Hi, I'm Lorena 👋
+# Hi, I'm Lorena 👋
 
-🔍 Intelligence Analyst | OSINT · Geopolitics 🛡️ Moving into Cyber Threat Intelligence & SOC 
-##📍 Spain
+🔍 **Intelligence Analyst | OSINT · Geopolitics**<br>
+🛡️ Moving into **Cyber Threat Intelligence & SOC**<br>
+📍 Spain
 
-About me
+---
 
-Intelligence analyst with a background in Geopolitics and Strategic Studies (MA, UC3M) and Arab & Middle Eastern Studies, now moving into cyber intelligence. I specialise in OSINT, hybrid threats and digital narrative analysis.
+## About me
 
-🎓 Teaching an OSINT course at SICURA
-##✍️ Writing analytical articles for Leaders Radar and Political Room
-##💻 Currently studying ASIR (IT systems & networks) at DigitechFP
-##📜 Preparing Cisco CCST Cybersecurity
-##🧰 Tools & skills
+Intelligence analyst with a background in Geopolitics and Strategic Studies (MA, UC3M) and Arab & Middle Eastern Studies, now moving into cyber intelligence. I specialise in **OSINT, hybrid threats and digital narrative analysis**.
 
-Area	Tools
-##OSINT	Maltego · Sherlock · Shodan · SpiderFoot
-##Systems	Linux (Kali, Debian) · Windows
-##Networking	Cisco Packet Tracer
-##Data analysis	R
-##Programming	Python (learning)
+- 🎓 Teaching an **OSINT course at SICURA**
+- ✍️ Writing analytical articles for **Leaders Radar** and **Political Room**
+- 💻 Currently studying **ASIR** (IT systems & networks) at DigitechFP
+- 📜 Preparing **Cisco CCST Cybersecurity**
 
-🌍 Languages
+## 🧰 Tools & skills
+
+| Area | Tools |
+|---|---|
+| OSINT | Maltego · Sherlock · Shodan · SpiderFoot |
+| Systems | Linux (Kali, Debian) · Windows |
+| Networking | Cisco Packet Tracer |
+| Data analysis | R |
+| Programming | Python *(learning)* |
+
+## 🌍 Languages
 
 Spanish (native) · English · Arabic
 
