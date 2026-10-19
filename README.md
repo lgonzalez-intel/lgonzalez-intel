@@ -1,23 +1,27 @@
-# Hola, soy Lorena 👋
+Hi, I'm Lorena 👋
 
-🔍 Intelligence Analyst | OSINT · Cyber Threat Intelligence · Geopolitics
+🔍 Intelligence Analyst | OSINT · Geopolitics 🛡️ Moving into Cyber Threat Intelligence & SOC 📍 Madrid, Spain
 
-📍 Madrid, Spain
+About me
 
-## Sobre mí
-Analista de inteligencia con formación en Geopolítica y Estudios Estratégicos (UC3M) en transición hacia ciberinteligencia. Especializada en OSINT, amenazas híbridas y análisis de narrativas digitales.
+Intelligence analyst with a background in Geopolitics and Strategic Studies (MA, UC3M) and Arab & Middle Eastern Studies, now moving into cyber intelligence. I specialise in OSINT, hybrid threats and digital narrative analysis.
 
-Actualmente cursando ASIR en DigitechFP y certificación Cisco CCST Cybersecurity.
+🎓 Teaching an OSINT course at SICURA
+✍️ Writing analytical articles for Leaders Radar and Political Room
+💻 Currently studying ASIR (IT systems & networks) at DigitechFP
+📜 Preparing Cisco CCST Cybersecurity
+🧰 Tools & skills
 
-## 🛠️ Herramientas y tecnologías
-- Python (en aprendizaje)
-- Linux · Kali · Debian
-- OSINT: Maltego, Sherlock, TheHarvester, ExifTool
-- Análisis de datos: R
+Area	Tools
+OSINT	Maltego · Sherlock · Shodan · SpiderFoot
+Systems	Linux (Kali, Debian) · Windows
+Networking	Cisco Packet Tracer
+Data analysis	R
+Programming	Python (learning)
 
-## 📝 Publicaciones
-- [Leaders Radar](https://www.linkedin.com/in/lorenagonzalez-intel) — Seguridad, Defensa y Tecnologías Estratégicas
-- Inteligenia — Análisis de inteligencia
+🌍 Languages
+
+Spanish (native) · English · Arabic
 
 ## 📫 Contacto
 [LinkedIn](https://www.linkedin.com/in/lorenagonzalez-intel)
